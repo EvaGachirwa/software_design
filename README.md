@@ -6,4 +6,5 @@ C4Context
         Boundary(orgSlice, "Org Management", "slice") {
             System(oberon, "Oberon", "[Insert description here]")
         }
+    }
 ```
